@@ -1,0 +1,20 @@
+
+.form_default {
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 500px;
+    gap: 8px;
+}
+
+.div_default {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn_default {
+    background-color: green;
+    padding: 4px;
+    color: white;
+}
